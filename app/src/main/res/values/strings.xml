@@ -4,4 +4,13 @@
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_today">TodayActivity</string>
+
+    <string name="title_activity_course">CourseActivity</string>
+    <string name="course_title_hint">Enter a title for the course.</string>
+    <string name="course_title_label">Title</string>
+    <string name="course_details_label">Details</string>
+    <string name="course_done_label">Done?</string>
+    <string name="courses_title">Courses</string>
+    <string name="title_activity_course_list">CourseListActivity</string>
+    <string name="date_picker_title">Date of course:</string>
 </resources>
